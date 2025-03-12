@@ -241,6 +241,117 @@ a:hover {
     }
 }
 
+/* About Section Styling */
+.about-place {
+    padding: 5rem 2rem;
+    background-color: var(--background);
+    position: relative;
+    overflow: hidden;
+}
+
+.about-place::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at 30% 70%, rgba(3, 218, 198, 0.08), transparent 60%);
+    z-index: 0;
+}
+
+.about-place h1 {
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+    z-index: 1;
+    animation: fadeIn 1s ease-out;
+}
+
+.about-text {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: rgba(30, 30, 30, 0.6);
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    position: relative;
+    z-index: 1;
+    transition: all 0.4s ease;
+    line-height: 1.8;
+    font-size: 1.1rem;
+    letter-spacing: 0.2px;
+    color: var(--text-secondary);
+    animation: fadeIn 1.5s ease-out;
+}
+
+.about-text:hover {
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+    transform: translateY(-5px);
+    border-color: rgba(187, 134, 252, 0.2);
+}
+
+.about-text i {
+    display: block;
+    font-style: italic;
+    color: var(--primary);
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.about-text b {
+    color: var(--secondary);
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+/* Special word highlight animation */
+.about-text b {
+    position: relative;
+    display: inline-block;
+}
+
+.about-text b::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    background-color: var(--secondary);
+    transform-origin: bottom right;
+    transition: transform 0.3s ease-out;
+}
+
+.about-text:hover b::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .about-place {
+        padding: 3rem 1rem;
+    }
+
+    .about-text {
+        padding: 1.5rem;
+        font-size: 1rem;
+    }
+
+    .about-text i {
+        font-size: 1.1rem;
+        margin-bottom: 1rem;
+        padding-bottom: 1rem;
+    }
+}
+
 /* Projects Section */
 .projects-place {
     padding: 5rem 2rem;
