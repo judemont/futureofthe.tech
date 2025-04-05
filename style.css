@@ -1,0 +1,33 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    line-height: 1.5;
+}
+
+header {
+    text-align: center;
+}
+
+a {
+    color: #00ff00;
+}
+
+p {
+    font-size: large;
+}
+
+.about-text {
+    justify-content: center;
+    max-width: 600px;
+    width: 90vw;
+}
+
+.support {
+    overflow-x: scroll;
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        margin-left: 150px;
+    }
+}
