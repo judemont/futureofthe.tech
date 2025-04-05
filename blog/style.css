@@ -6,9 +6,21 @@ body {
 
 header,
 h1 {
-    text-align: center;
     margin-top: 100px;
     margin-bottom: 150px;
+}
+
+header,
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+h2,
+h3 {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 a {
@@ -24,9 +36,12 @@ p {
     margin: 0 auto;
 }
 
+img {
 
-.support {
-    overflow-x: scroll;
+    display: block;
+    margin: 40px auto;
+    max-width: 800px;
+    width: 95vw;
 }
 
 @media screen and (min-width: 480px) {
