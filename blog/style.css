@@ -25,7 +25,8 @@ a {
     color: #00ff00;
 }
 
-p {
+p,
+.support {
     font-size: large;
     text-align: justify;
     max-width: 600px;
@@ -40,6 +41,10 @@ img {
     margin: 40px auto;
     max-width: 800px;
     width: 95vw;
+}
+
+.support {
+    overflow-x: scroll;
 }
 
 @media screen and (min-width: 480px) {

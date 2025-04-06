@@ -26,7 +26,7 @@ $articles = array_reverse($articles);
             foreach ($articles as $article) {
                 echo "
                 <li>
-                    <a href=\"read.php?i=$i\">{$article['title']}</a> <br>
+                    <a href=\"read.php?i=$i\"><b>{$article['title']}</b></a> <br>
                     <i>{$article['date']}</i> <br>
                     <b>{$article['readTime']}</b>
                 </li>";
