@@ -132,7 +132,7 @@ $articles = array_reverse($articles);
     </div>
     <br><br>
     <footer>
-        <p><img src="nocopyright.svg" alt="No copyright" width="25"> No rights reserved.</p>
+        <p><img src="nocopyright.svg" alt="No copyright" width="25"> Public domain.</p>
     </footer>
 </body>
 
