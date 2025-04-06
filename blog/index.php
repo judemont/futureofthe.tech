@@ -20,13 +20,14 @@ $articles = array_reverse($articles);
 
     </header>
     <h3 >Articles :</h3>
-    <ul>
+    <ul class="articles">
         <?php
             $i = 0;
             foreach ($articles as $article) {
                 echo "
                 <li>
                     <a href=\"read.php?i=$i\"><b>{$article['title']}</b></a> <br>
+                    <p>{$article['description']}</p> <br>
                     <i>{$article['date']}</i> <br>
                     <b>{$article['readTime']}</b>
                 </li>";

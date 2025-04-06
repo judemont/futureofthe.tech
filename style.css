@@ -22,6 +22,12 @@ p {
     width: 90vw;
 }
 
+.articles {
+    justify-content: center;
+    max-width: 600px;
+    width: 80vw;
+}
+
 .support {
     overflow-x: scroll;
 }

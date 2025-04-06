@@ -108,13 +108,14 @@ $articles = array_reverse($articles);
     </ul>
     <br>
     <h2 id="blog">Articles by <i>Me</i></h2>
-    <ul>
+    <ul class="articles">
         <?php
             $i = 0;
             foreach ($articles as $article) {
                 echo "
                 <li>
                     <a href=\"blog/read.php?i=$i\"><b>{$article['title']}</b></a> <br>
+                    <p>{$article['description']}</p> <br>
                     <i>{$article['date']}</i> <br>
                     <b>{$article['readTime']}</b>
                 </li>";

@@ -44,7 +44,8 @@ img {
     width: 95vw;
 }
 
-.support {
+.support,
+.articles {
     overflow-x: scroll;
 }
 
