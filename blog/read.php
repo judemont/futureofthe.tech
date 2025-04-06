@@ -15,6 +15,8 @@ $content = file_get_contents("articles/" . $article["html"]);
     <title><?php echo $article["title"] ?></title>
     <link rel="stylesheet" href="style.css">
     <meta name="description" content="<?php echo $article["description"] ?>">
+    <meta name="author" content="Julien de Montmollin (JdM)">
+    <meta name="keywords" content="JdM, Julien de Montmollin, blog, articles, futureofthe.tech, technology, innovation, development">
 </head>
 <body>
     <?php
