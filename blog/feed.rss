@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>FutureOfThe.Tech Blog</title>
+    <link>https://futureofthe.tech</link>
+    <description> My ideas and thoughts </description>
+    <language>en-us</language>
+    <copyright>Public domain</copyright>
+    <managingEditor>julien@rmbi.ch</managingEditor>
+    <webMaster>julien@rmbi.ch</webMaster>
+    <item>
+      <title>How Web Design Changed for me, and for the World</title>
+      <link>https://futureofthe.tech/blog/read.php?i=0</link>
+      <description>A personal journey through web design evolution, from experimental interfaces to simple elegance, exploring how websites have shifted from information sharing to attention-grabbing in the modern digital landscape.</description>
+      <pubDate>Sun, 06 Apr 2025 12:00:00 +0000</pubDate>
+      <guid>https://futureofthe.tech/blog/read.php?i=0</guid>
+
+      <category>Web Design</category>
+      <category>Technology</category>
+      <category>Economy of attention</category>
+
+      <author>Julien de Montmollin (JdM)</author> 
+
+      <enclosure url="https://futureofthe.tech/blog/images/10.png" length="315000" type="image/png"/>
+    </item>
+  </channel>
+</rss>

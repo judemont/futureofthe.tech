@@ -34,7 +34,9 @@ $articles = array_reverse($articles);
                 $i++;
             }
         ?>
+        <a href="https://futureofthe.tech/blog/feed.rss">RSS feed</a>
     </ul>
+
     
 </body>
 </html>
