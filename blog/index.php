@@ -2,7 +2,7 @@
 
 $data = file_get_contents('articles.json');
 $articles = json_decode($data, true);
-
+$articles = array_reverse($articles);
 ?>
 
 <!DOCTYPE html>
@@ -16,16 +16,20 @@ $articles = json_decode($data, true);
 <body>
     <header>
         <h1>JdM's Blog</h1>
-        <h2><i>My ideas and thoughts</i></h2>
+        <b><i>My ideas and thoughts</i></b>
 
     </header>
-    <br><br>
-    <h3>Articles :</h3>
+    <h3 >Articles :</h3>
     <ul>
         <?php
             $i = 0;
             foreach ($articles as $article) {
-                echo "<li><a href=\"read.php?i=$i\">{$article['title']}</a></li>";
+                echo "
+                <li>
+                    <a href=\"read.php?i=$i\">{$article['title']}</a> <br>
+                    <i>{$article['date']}</i> <br>
+                    <b>{$article['readTime']}</b>
+                </li>";
                 $i++;
             }
         ?>
