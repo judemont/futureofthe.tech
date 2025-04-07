@@ -123,7 +123,7 @@ $articles = array_reverse($articles);
             }
         ?>
     </ul>
-    <p><a href="https://futureofthe.tech/blog/feed.rss">RSS feed</a></p>
+    <p><a href="blog/feed.rss">RSS feed</a></p>
     <br>
     <h2 id="support">Support My Work</h2>
     <div class="support">

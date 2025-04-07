@@ -25,11 +25,11 @@ $content = file_get_contents("articles/" . $article["html"]);
     <br><br>
     <h2>-----------------</h2>
     <footer>
-        <p>Author: <a href="https://futureofthe.tech"></i><b>Julien de Montmollin (JdM)</b></i></a></p>
+        <p>Author: <a href="/"></i><b>Julien de Montmollin (JdM)</b></i></a></p>
         <p>Published on: <i><b><?php echo $article["date"] ?></b></i></p>
         <p>License: <b><i>Public domain</i></b></p>
         <p><a href="index.php">Back to articles</a></p>
-        <p><a href="https://futureofthe.tech">Back to my website</a></p>
+        <p><a href="/">Back to my website</a></p>
 
         <br><br>
         <h2 >Support My Work</h2>
