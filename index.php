@@ -19,7 +19,7 @@ $articles = array_reverse($articles);
 <body>
     <header>
         <h1>Welcome to JdM's Site</h1>
-        <b>I devote my time to Imagining and Creating the Future of the Humanity 🌐.</b>
+        <b>I create digital solutions <i>optimized</i> for computers, <i>comfortable</i> for users and <i>innovative</i> for the world.</b>
     </header>
     <br><br>
     <h2>Table of content</h2>
@@ -44,8 +44,8 @@ $articles = array_reverse($articles);
     <br>
     <h2 id="about">About Me :</h2>
     <p class="about-text">
-        <i>I devote my time to Imagining and Creating the Future of the Humanity 🌐. A future we all
-            want.</i><br><br>
+        <i>I create digital solutions <b>optimized</b> for computers, <b>comfortable</b> for users and <b>innovative</b> for the world.</i>
+        <br><br>
 
         Hi i'm JdM. I'm passionate about development. <br>As a computer science student I use my skills in this
         field to
