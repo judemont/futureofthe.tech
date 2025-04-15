@@ -63,6 +63,7 @@ $articles = array_reverse($articles);
     </p>
     <br>
     <h2 id="projects">My Projects</h2>
+    <h3>Android apps :</h3>
     <ul>
         <li>
             <a href="https://github.com/judemont/QuizFlow" target="_blank" rel="noreferrer">QuizFlow</a>
@@ -77,10 +78,42 @@ $articles = array_reverse($articles);
             <a href="https://github.com/judemont/cryptotracker" target="_blank" rel="noreferrer">CryptoTracker</a>
             - Track cryptocurrency prices in real-time with CryptoTracker
         </li>
+    </ul>
+    <h3>Desktop apps :</h3>
+    <ul>
+        <li>
+            <a href="https://github.com/judemont/CryptoFlow" target="_blank" rel="noreferrer">CryptoFlow</a>
+            - Track crypto-currency prices in style and privacy with CryptoFlow 
+        </li>
+        <li>
+            <a href="https://github.com/judemont/tcoin" target="_blank" rel="noreferrer">CryptoFlow</a>
+            - Get real-time data and charts for any crypto-currency without leaving your terminal ! 
+        </li>
+    </ul>
+    <h3>Sites :</h3>
+    <ul>
+        <li>
+            <a href="https://futureofthe.world" target="_blank" rel="noreferrer">FutureOfThe.World</a>
+            - Future Of The World
+        </li>
+        <li>
+            <a href="https://futureofthe.tech" target="_blank" rel="noreferrer">FutureOfThe.Tech</a>
+            - Future Of The Tech
+        </li>
+    </ul>
+    <h3>Tools :</h3>
+    <ul>
         <li>
             <a href="https://github.com/judemont/netexplorer" target="_blank" rel="noreferrer">NetExplorer</a>
             - Web analysis tool
         </li>
+                <li>
+            <a href="https://github.com/judemont/Video-to-CSS" target="_blank" rel="noreferrer">Video to CSS</a>
+            - Convert your videos into CSS animation
+        </li>
+    </ul>
+    <h3>Telegram bots :</h3>
+    <ul>
         <li>
             <a href="https://t.me/united_nations_news" target="_blank" rel="noreferrer">United Nations News</a>
             - United Nations News on Telegram from news.un.org
@@ -89,14 +122,9 @@ $articles = array_reverse($articles);
             <a href="https://t.me/down_alertbot" target="_blank" rel="noreferrer">Down Alert</a>
             - Telegram bot that checks if your websites are down and then alerts you
         </li>
-        <li>
-            <a href="https://futureofthe.world" target="_blank" rel="noreferrer">FutureOfThe.World</a>
-            - Future Of The World
-        </li>
-        <li>
-            <a href="https://github.com/judemont/Video-to-CSS" target="_blank" rel="noreferrer">Video to CSS</a>
-            - Convert your videos into CSS animation
-        </li>
+    </ul>
+    <h3>Browser extensions :</h3>
+    <ul>
         <li>
             <a href="https://github.com/judemont/typing-bot" target="_blank" rel="noreferrer">Typing Bot</a>
             - Automatic typing browser extension for cheating on typing tests
@@ -111,13 +139,12 @@ $articles = array_reverse($articles);
     <h2 id="things">Things I Use</h2>
     <h3>Softwares :</h3>
     <ul>
-        <li>Operating system: <a href="https://archlinux.org">Arch Linux</a></li>
+        <li>Operating system: <a href="https://archlinux.org">Arch Linux, btw</a></li>
         <li>Desktop environement: <a href="https://www.gnome.org">Gnome</a></li>
         <li>Web browser: <a href="https://www.firefox.com">Firefox</a></li>
         <li>Search engine: <a href="https://duckduckgo.com">DuckDuckGo</a></li>
         <li>Phone operating system: <a href="https://calyxos.org/">CalyxOS</a></li>
-        <li>Text editor: <a href="https://code.visualstudio.com">Visual Studio Code (no i'm not and I won't use
-                VIM)</a></li>
+        <li>Text editor: <a href="https://code.visualstudio.com">Visual Studio Code</a></li>
         <li>Messenger: <a href="https://signal.org">Signal</a></li>
     </ul>
     <h3>Hardwares :</h3>
