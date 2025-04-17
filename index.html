@@ -19,7 +19,8 @@ $articles = array_reverse($articles);
 <body>
     <header>
         <h1>Welcome to JdM's Site</h1>
-        <b>I create digital solutions <i>optimized</i> for computers, <i>comfortable</i> for users and <i>innovative</i> for the world.</b>
+        <b>I create digital solutions <i>optimized</i> for computers, <i>comfortable</i> for users and <i>innovative</i>
+            for the world.</b>
     </header>
     <br><br>
     <h2>Table of content</h2>
@@ -44,7 +45,8 @@ $articles = array_reverse($articles);
     <br>
     <h2 id="about">About Me :</h2>
     <p class="about-text">
-        <i>I create digital solutions <b>optimized</b> for computers, <b>comfortable</b> for users and <b>innovative</b> for the world.</i>
+        <i>I create digital solutions <b>optimized</b> for computers, <b>comfortable</b> for users and <b>innovative</b>
+            for the world.</i>
         <br><br>
 
         Hi i'm JdM. I'm passionate about development. <br>As a computer science student I use my skills in this
@@ -83,11 +85,11 @@ $articles = array_reverse($articles);
     <ul>
         <li>
             <a href="https://github.com/judemont/CryptoFlow" target="_blank" rel="noreferrer">CryptoFlow</a>
-            - Track crypto-currency prices in style and privacy with CryptoFlow 
+            - Track crypto-currency prices in style and privacy with CryptoFlow
         </li>
         <li>
             <a href="https://github.com/judemont/tcoin" target="_blank" rel="noreferrer">Tcoin</a>
-            - Get real-time data and charts for any crypto-currency without leaving your terminal ! 
+            - Get real-time data and charts for any crypto-currency without leaving your terminal !
         </li>
     </ul>
     <h3>Sites :</h3>
@@ -107,7 +109,7 @@ $articles = array_reverse($articles);
             <a href="https://github.com/judemont/netexplorer" target="_blank" rel="noreferrer">NetExplorer</a>
             - Web analysis tool
         </li>
-                <li>
+        <li>
             <a href="https://github.com/judemont/Video-to-CSS" target="_blank" rel="noreferrer">Video to CSS</a>
             - Convert your videos into CSS animation
         </li>
@@ -155,22 +157,8 @@ $articles = array_reverse($articles);
     </ul>
     <br>
     <h2 id="blog">Articles by <i>Me</i></h2>
-    <ul class="articles">
-        <?php
-            $i = 0;
-            foreach ($articles as $article) {
-                echo "
-                <li>
-                    <a href=\"blog/read.php?i=$i\"><b>{$article['title']}</b></a> <br>
-                    <p>{$article['description']}</p> <br>
-                    <i>{$article['date']}</i> <br>
-                    <b>{$article['readTime']}</b>
-                </li>";
-                $i++;
-            }
-        ?>
-    </ul>
-    <p><a href="blog/feed.rss">RSS feed</a></p>
+    <p>I've written a few articles on interesting subjects. You can find them on my <a href="blog/">blog</a>.</p>
+    <p><a href="blog/articles.xml">RSS feed</a></p>
     <br>
     <h2 id="support">Support My Work</h2>
     <div class="support">
