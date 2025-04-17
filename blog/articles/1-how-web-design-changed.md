@@ -6,7 +6,9 @@
 
 # How Web Design Changed for Me, and for the World
 
-## Table of Contents
+<!--
+Table of content isn't working ..
+ ## Table of Contents
 1. [Introduction](#introduction)
 2. [My site that you should talk to](#my-site-that-you-should-talk-to)
 3. [My site with no purpose](#my-site-with-no-purpose)
@@ -16,7 +18,7 @@
 7. [What is the purpose of a website?](#purpose-of-a-website)
 8. [Why my website isn't beautiful, and why I don't care](#why-my-website-isnt-beautiful)
 9. [Design ≠ Credibility](#design-not-credibility)
-10. [Conclusion](#conclusion)
+10. [Conclusion](#conclusion) -->
 
 
 
