@@ -86,7 +86,7 @@ $articles = array_reverse($articles);
             - Track crypto-currency prices in style and privacy with CryptoFlow 
         </li>
         <li>
-            <a href="https://github.com/judemont/tcoin" target="_blank" rel="noreferrer">CryptoFlow</a>
+            <a href="https://github.com/judemont/tcoin" target="_blank" rel="noreferrer">Tcoin</a>
             - Get real-time data and charts for any crypto-currency without leaving your terminal ! 
         </li>
     </ul>

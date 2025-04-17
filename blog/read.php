@@ -1,45 +1,74 @@
 <?php
-
-$i = $_GET['i'];
-$data = file_get_contents('articles.json');
-$articles = json_decode($data, true);
-$article = $articles[$i];
-$content = file_get_contents("articles/" . $article["html"]);
+$data = file_get_contents('infos.json');
+$data = json_decode($data, true);
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $article["title"] ?></title>
-    <link rel="stylesheet" href="style.css">
-    <meta name="description" content="<?php echo $article["description"] ?>">
-    <meta name="author" content="Julien de Montmollin (JdM)">
-    <meta name="keywords" content="JdM, Julien de Montmollin, blog, articles, futureofthe.tech, technology, innovation, development">
-</head>
-<body>
-    <?php
-    echo $content;
-    ?>
-    <br><br>
-    <h2>-----------------</h2>
-    <footer>
-        <p>Author: <a href="/"></i><b>Julien de Montmollin (JdM)</b></i></a></p>
-        <p>Published on: <i><b><?php echo $article["date"] ?></b></i></p>
-        <p>License: <b><i>Public domain</i></b></p>
-        <p><a href="index.php">Back to articles</a></p>
-        <p><a href="/">Back to my website</a></p>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title><?php echo $data["name"] ?></title>
+        <link rel="stylesheet" href="styles/style.css">
+        <link rel="stylesheet" href="styles/read.css">
+
+        <meta name="description" content="<?php echo $data["description"] ?>">
+        <meta name="author" content="<?php echo $data["author"] ?>">
+    </head>
+    <body>
+        
+        <?php
+        require 'Parsedown.php'; 
+
+    
+
+        $Parsedown = new Parsedown();
+
+        $filename = isset($_GET['p']) ? $_GET['p'] : '';
+
+        $sanitizedFilename = basename($filename);
+
+        $markdownDirectory = 'articles/'; 
+
+        $filePath = $markdownDirectory . $sanitizedFilename;
+
+        if (file_exists($filePath) && pathinfo($filePath, PATHINFO_EXTENSION) === 'md') {
+
+            $markdownContent = file_get_contents($filePath);
+            
+
+            preg_match('/\[info_title\]: (.+)/', $markdownContent, $titleMatch);
+            preg_match('/\[info_description\]: (.+)/', $markdownContent, $descriptionMatch);
+            preg_match('/\[info_date\]: (.+)/', $markdownContent, $dateMatch);
+
+            $title = $titleMatch[1] ?? 'No title';
+            $description = $descriptionMatch[1] ?? 'No description';
+            $date = $dateMatch[1] ?? 'No date';
+
+
+
+
+            $htmlContent = $Parsedown->text($markdownContent);
+
+            echo $htmlContent;
+        } else {
+            echo "File not found or invalid file type.";
+        }
+
+        ?>
 
         <br><br>
-        <h2 >Support My Work</h2>
-        <div class="support">
-            <h4>Bitcoin :</h4>
-            <p>bc1qhmkpytvs42w27pgqrk7kljy5hvarzx6tll8ar6</p>
-            <h4>Monero :</h4>
-            <p>49pyL3WPqfqfaLweCYFYbsWQi2bvKqmAHixewxnDBi32DKiPQz9kgJ5g6VnvENLqWbD5iGasQQvG7GVVg6B3HYu5Gqx4JSn</p>
-        </div>
-    </footer>
-</body>
+        <h2>-----------------</h2>
+        <footer>
+            <p>Author: <a href="/"></i><b> <?php echo $data["author"] ?></b></i></a></p>
+            <p>Published on: <i><b><?php echo $date ?></b></i></p>
+            <p>License: <b><i><?php echo $data["license"] ?></i></b></p>
+            <p><a href="index.php">Back to articles</a></p>
+            <p><a href="/">Back to my website</a></p>
+
+            <br><br>
+        <p>Blogging Platforms by <a href="https://futureofthe.tech">JdM</a></p> <!-- You can remove this line if you want. -->
+        </footer>
+
+    </body>
+
 </html>
-    
