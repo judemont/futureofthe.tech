@@ -114,7 +114,9 @@ Recent events have brought me a mix of excitement and stress. I find it very har
 
 The site will never come back online. 
 
-My most talked-about project was only online for a day. In one day 52 students voted more than 300 times, and sent more than 30 comments. No one knows how far it could have gone if it had stayed online.
+My most talked-about project was only online for a day. In one day 52 students voted more than 300 times, and sent more than 30 comments. No one knows how far it could have gone if it had stayed online. 
+
+We mistakenly thought that shutting down the site would prevent reprisals from the school authorities. We were completely unprepared for what happened next...
 
 ## There was no hate
 
@@ -129,5 +131,18 @@ This project shows that __giving students an anonymous voice doesn’t lead to h
 For your information: GOAT means “Greatest Of All Time”.
 
 #### English translation (google translate)
+
 ![Image](medias/22.png)
 
+## Teachers' opinions 
+What was most interesting was to hear my teachers' opinions on the project. There were more or less two categories of teachers.
+
+### Favorable to the idea
+It may seem surprising, but many teachers liked the idea. Many of my teachers explained to me that they found the idea really interesting and disagreed with the school management. These teachers were our greatest support.
+
+One of my teachers even confessed to having written a positive comment about a colleague. 
+
+### Very angry
+Another group of teachers didn't appreciate the initiative at all. It appears that some were even inclined to pursue personal legal action against us. The problem was that some of them hadn't even had time to see the site for themselves, and a lot of false information was circulating.
+
+## News article full of misinformation
