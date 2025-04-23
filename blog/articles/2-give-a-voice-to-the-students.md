@@ -34,3 +34,100 @@ The problem is that students don't have the opportunity to speak out and denounc
 __So we built what is essentially Google Maps for teachers — a place where students could rate and comment teachers, just like with businesses.__
 
 ## Our solution: a website where students can rate and review their teachers
+Our project was ambitious, risky and motivating. We wanted to create a web platform where all the students in my school could share their opinions about their teachers. We spent about a month actively developing this platform. It wasn't easy, but it was an interesting project in which we learned a lot.
+
+![Image](medias/18.png)  
+*Home page overview (it's in french)*
+
+Some teachers are represented by an image, which we have retrieved from public sources on the Internet.
+
+We chose three rating criteria that we believe are important :
+- **humor**
+- **teaching quality**
+- **kindness**
+
+![Image](medias/17.png)
+
+Students can rate their teachers on each of these criteria using a scale from 1 to 10. The number of stars is then calculated based on the average score for each criterion.
+
+![Image](medias/16.png)
+
+It is also possible to send comments anonymously.
+
+![Image](medias/20.png)
+
+
+Our aim was to improve the quality of education by giving students a platform to share their opinions about teachers and report issues, helping encourage teachers to improve.
+
+**We wanted to give students the voice they deserved and desperately needed.**
+
+Of course, we knew there could be abuse, and we wanted to avoid it at all costs. That's why we started by writing very clear rules :
+
+![Image](medias/19.png)
+*The rules page (translated from french with google translate)*
+
+Not only have we written the rules, we've also set up an effective moderation system to enforce them. This moderation system allows us to block certain IP addresses for a certain period of time.
+
+
+## Day 1
+
+The site was ready. Now, we just had to let people know about it. To do this, we sent an automatic e-mail to a large proportion of the students at our school.
+
+It was a Wednesday like many others, but not for me. That was the day the world would discover our project. We didn't know what to expect, but I could never have imagined what would happen next. It's the kind of day I'll remember for a very long time.
+
+### ~ 8 a.m. :
+
+Nothing special is happening, but I’m really excited by the idea that people might be discovering our creation.
+
+### ~ 9h30 a.m. :
+
+I'm in French class when my phone vibrates. I look at it discreetly under the table and notice that one of my friends has sent me a message. He tells me he’s heard about a site for rating teachers and asks if I’m the one who made it. 
+
+At that moment, I was both excited and surprised. Excited because it was one of the first times one of my projects had actually made a noise, and it was like a dream for me. But also surprised that he could guess that I was one of the people behind this site. I didn't reply because I didn't know what to say, but I couldn't forget.
+
+### ~ 10h a.m. :
+
+It's break time. I pull out my phone and go straight to the site to check if there is any activity. There was activity. *A lot of it.* Even more than we could have imagined. Some had heard about our site through our email, and many had shared it again and again. There were lots of votes, lots of comments. 
+
+It was amazing to read the comments in live. It was really exciting. My first satisfaction was that the majority of comments were positive, and none were insulting or unkind.
+
+### ~ 11h a.m.
+
+At this hour, I was in an art class. It's a class where a lot of people are on their phones. Listening to the people around me, I've heard several people talking about our site. It was really disturbing and stressful because some people asked me if I was the one behind it. I never imagined it would spread so far.
+
+I keep watching the evolution of comments and ratings. All comments are always kind.
+
+### ~ 1h p.m.
+
+I've already finished school for the day. Like every day, I head to the station to catch the train, my mind going over everything again. 
+
+I see one of my friends, and I go up to him to tell him everything that has just happened. I don’t have time to tell him about the situation, he cuts me off to talk about something serious. He explains how the school director came to find him in his classroom. 
+
+This friend had not been involved in the development of the site. 
+Still, the school director was convinced he was behind the site, just because he had some tech skills and a site in the same domain. My friend explained several times that it wasn't him, but he didn't believe it. 
+
+The director insisted that he send him excerpts from our Signal discussion. Which I think is illegal, since I didn't agree to this sharing of our private discussions. The problem was that we'd been unmasked: the director now knew we were behind the site.
+
+## The end
+
+Recent events have brought me a mix of excitement and stress. I find it very hard to think about anything else. We were in no way prepared for this. We made the difficult decision to take the site down. Because of the pressure, because of the stress and because we never wished for any trouble. We had created the site to improve the situation based on our vision, but we took it down because it had become too much responsibility. 
+
+The site will never come back online. 
+
+My most talked-about project was only online for a day. In one day 52 students voted more than 300 times, and sent more than 30 comments. No one knows how far it could have gone if it had stayed online.
+
+## There was no hate
+
+There’s one more point I’d like to emphasize, because it’s a very important one. Even with total anonymity, not a single one of the numerous comments about the teachers was hateful or insulting. The moderation system hasn't even been used. Most of the comments were constructive, or even friendly.
+
+This project shows that __giving students an anonymous voice doesn’t lead to hate, it leads to honesty.__ This honesty is the key to a better school system.
+
+### Example of authentic comments :
+
+![Image](medias/21.png)
+
+For your information: GOAT means “Greatest Of All Time”.
+
+#### English translation (google translate)
+![Image](medias/22.png)
+
