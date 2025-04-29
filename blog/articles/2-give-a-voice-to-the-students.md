@@ -2,6 +2,7 @@
 [info_title]: The website I created to give a voice to the students at my school
 [info_description]: This article tells the story of a group of students who, a few years ago, launched a website that turned my school upside down in just a few days. It’s the story of how my friends and I used our coding skills to make our vision a reality — how the entire school caught wind of it, and how the education authority responded. It's a story of surprises, mistakes, pressure and lies, but above all it's the initiative of a student who hadn't planned any of it.
 [info_date]: April 24, 2025
+[hide]: true
 -->
 
 # The website I created to give a voice to the students at my school
@@ -146,3 +147,79 @@ One of my teachers even confessed to having written a positive comment about a c
 Another group of teachers didn't appreciate the initiative at all. It appears that some were even inclined to pursue personal legal action against us. The problem was that some of them hadn't even had time to see the site for themselves, and a lot of false information was circulating.
 
 ## News article full of misinformation
+
+This was just a few days after the site’s launch. Someone sent me a link to an article in the regional newspaper. I was totally unprepared for what I was about to read. 
+
+I quickly realized it was an article about our teacher rating site. A lot of things came to mind when I realized this. Already, what the fuck?? How is it possible to have an article on our site? How did the information spread so far?
+
+I'd always really hoped that one day one of my projects would be the subject of an article in the newspaper, but it really wasn't the way I'd imagined it.
+
+I was very surprised, but as I read the article, I felt not just surprise, but also indignation. 
+I had many reasons to feel indignant, and I’ll list some of them here :
+
+--- 
+Here's the title of the article (translated from French with Deepl) :
+> *Insults on the Internet also have consequences*
+
+Insults ? What insult ? As I explained earlier, the site has never contained ANY insults of any kind. 
+
+Here's the subtitle of the article (translated from French with Deepl) :
+
+> _A website is causing trouble at ****. Students have insulted their teachers online. An act that is not without consequences. The school management and the Department of Compulsory Education want to send out a message of responsibility._ 
+
+This statement is simply untrue, **no teacher was ever insulted**. It is also mentioned that the school management want to send out a message of responsibility, but we didn't even get a chance to explain ourselves to them.
+
+Here are a few quotes (translated from French with Deepl):
+
+> Insulting messages were quickly posted and the teachers, then the management, were informed.
+
+No insulting messages were posted...
+
+> The site has since been closed by the host, at the request of management.
+ The three young people have written an apology and will be heard 
+once again by the ****** management, who do not wish to take sanctions immediately. but rather to learn from the experience.
+
+There is a lot to say.
+1. The site was not closed by the host but by us.
+2. There weren't three of us, but two. The third person was falsely accused.
+3. We have never been heard by the school management at this time.
+4. t says that the management didn’t want to take immediate action, yet they still shared false information with the press.
+
+> The three young people who created this website are exposed to sanctions. Firstly, at administrative and school level. But for the moment, the director of **** ***** ****** has told us that it is still too early to discuss this. Secondly, potential legal sanctions could be applied, since this complaint is currently directed against the website and its authors, and concerns a potential violation of personality.
+
+So it's too early for sanctions, but not too early for legal action and leaking false information to the press ?
+
+---
+
+After discovering the article, we sent several emails to the newspaper, which replied, briefly, that the article was mainly for educational purposes and that it did not reveal our identities. 
+
+Does an educational purpose justify sharing false information ?
+
+## Meeting with the school management
+After a lot of pressure, threats of legal action, and a misleading news article, we were finally summoned to the principal's office. We were told the meeting would last half an hour, but it ended up lasting over two hours. 
+
+To begin with, we were asked if the police had already contacted us. And this wasn't the case. So it looks more like an attempt at intimidation than a real question, since we still haven't been contacted. Even today, we have no proof that a real legal complaint was ever filed.
+
+During those two hours, we had a hard time expressing ourselves, as we were constantly interrupted and put under pressure.
+
+The school management used screenshots of our Signal group as an argument, which posed two problems.
+- I never gave my consent for him to read our messages. So I think it's illegal.
+- Many of the messages were meant to be humorous, and they don't mean a thing without the necessary context.
+
+We told the principal that using our messages was a violation of our privacy.
+
+They replied, and I quote (literal translation of my memories).
+> Until now we have been nice, but if you want to play mean, then we can show our fangs.
+
+In my opinion, this sounds like a threat.
+
+### Sanctions :
+Here are the sanctions that have been chosen for us :
+- Three free days of work for the school during the vacations.
+- Ban from attending the end-of-year prom.
+
+These sanctions are not based on any article of the school rules.
+
+The reason given for banning us from the end-of-year prom was that some teachers might try to confront us. Which makes no sense, since many teachers actually supported the site — and in any case, it’s their responsibility to control themselves, not ours to avoid them. But anyway I don't care since the prom looked really boring.
+
+
