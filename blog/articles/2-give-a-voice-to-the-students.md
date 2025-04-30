@@ -223,3 +223,9 @@ These sanctions are not based on any article of the school rules.
 The reason given for banning us from the end-of-year prom was that some teachers might try to confront us. Which makes no sense, since many teachers actually supported the site — and in any case, it’s their responsibility to control themselves, not ours to avoid them. But anyway I don't care since the prom looked really boring.
 
 
+## Conclusion
+The experience of creating and launching the website to rate and review teachers was a rollercoaster of emotions and lessons. What started as a fun and ambitious project quickly turned into a whirlwind of excitement, stress, and unexpected consequences. 
+
+This article primarily presents the factual sequence of events, but it is true that we also made mistakes. If we were to do it again, we would likely do things differently. 
+
+This project was, above all, an instructive experience from which we draw lessons and learning. We learned how to create a dynamic website and a database, but also that a project can easily spiral out of control, that news articles sometimes present highly exaggerated or false information, and that ethics and responsibility should always guide our actions.

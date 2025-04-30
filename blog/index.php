@@ -98,9 +98,6 @@ createRSS();
             ?>
         </ul>
         <p><a href="articles.xml">RSS feed</a></p>
-        <footer>
-            <br><br>
-            <p>Blogging Platforms by <a href="https://futureofthe.tech">JdM</a></p> <!-- You can remove this line if you want. -->
-        </footer>
+
     </body>
 </html>
