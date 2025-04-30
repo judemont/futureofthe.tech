@@ -83,7 +83,7 @@ createRSS();
                 $date = $dateMatch[1] ?? 'No date';
                 
                 $wordCount = str_word_count(strip_tags($content));
-                $readTime = ceil($wordCount / 200) . ' min read';
+                $readTime = ceil($wordCount / 170) . ' min read';
 
                 $fileName = basename($file);
 
