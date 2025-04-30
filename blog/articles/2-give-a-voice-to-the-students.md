@@ -1,15 +1,14 @@
 <!-- 
-[info_title]: The website I created to give a voice to the students at my school
+[info_title]: The website we created to give a voice to the students at my school
 [info_description]: This article tells the story of a group of students who, a few years ago, launched a website that turned my school upside down in just a few days. It’s the story of how my friends and I used our coding skills to make our vision a reality — how the entire school caught wind of it, and how the education authority responded. It's a story of surprises, mistakes, pressure and lies, but above all it's the initiative of a student who hadn't planned any of it.
 [info_date]: April 24, 2025
 [hide]: true
 -->
 
-# The website I created to give a voice to the students at my school
+# The website we created to give a voice to the students at my school
 
-> None of the persons or institutions mentioned are named or identifiable.
 
->> This article primarily presents factual and indisputable information, with only a few sections offering my personal perspective, which will be clearly marked.
+> This article primarily presents factual and indisputable information, with only a few sections offering my personal perspective, which will be clearly marked.
 
 ## Introduction
 This article tells the story of a group of students who, a few years ago, launched a website that turned my school upside down in just a few days. It’s the story of how my friends and I used our coding skills to make our vision a reality — how the entire school caught wind of it, and how the education authority responded. It's a story of surprises, mistakes, pressure and lies, but above all it's the initiative of a student who hadn't planned any of it.
@@ -183,7 +182,7 @@ There is a lot to say.
 1. The site was not closed by the host but by us.
 2. There weren't three of us, but two. The third person was falsely accused.
 3. We have never been heard by the school management at this time.
-4. t says that the management didn’t want to take immediate action, yet they still shared false information with the press.
+4. It says that the management didn’t want to take immediate action, yet they still shared false information with the press.
 
 > The three young people who created this website are exposed to sanctions. Firstly, at administrative and school level. But for the moment, the director of **** ***** ****** has told us that it is still too early to discuss this. Secondly, potential legal sanctions could be applied, since this complaint is currently directed against the website and its authors, and concerns a potential violation of personality.
 
