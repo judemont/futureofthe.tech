@@ -45,6 +45,10 @@ img {
 }
 
 
+li {
+    margin-bottom: 10px;
+}
+
 @media screen and (min-width: 480px) {
     body {
         margin-left: 150px;
