@@ -1,11 +1,3 @@
-<?php
-
-$data = file_get_contents('blog/articles.json');
-$articles = json_decode($data, true);
-$articles = array_reverse($articles);
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,8 +15,7 @@ $articles = array_reverse($articles);
             for the world.</b>
     </header>
     <br><br>
-    <h2>Table of content</h2>
-    <ul>
+    <ul class="nav">
         <li><a href="#social">Social</a></li>
         <li><a href="#about">About Me</a></li>
         <li><a href="#blog">My Blog</a></li>
