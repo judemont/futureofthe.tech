@@ -67,7 +67,7 @@ $data = json_decode($data, true);
             <p><a href="/">Back to my website</a></p>
 
             <br><br>
-            <script src="../scripts/giscus.js"
+            <script src="https://giscus.app/client.js"
                 data-repo="judemont/futureofthe.tech"
                 data-repo-id="R_kgDOJg4fWQ"
                 data-category="Announcements"
