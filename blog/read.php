@@ -13,6 +13,7 @@ $data = json_decode($data, true);
 
         <meta name="description" content="<?php echo $data["description"] ?>">
         <meta name="author" content="<?php echo $data["author"] ?>">
+        
     </head>
     <body>
         
@@ -66,7 +67,21 @@ $data = json_decode($data, true);
             <p><a href="/">Back to my website</a></p>
 
             <br><br>
-        <p>Blogging Platforms by <a href="https://futureofthe.tech">JdM</a></p> <!-- You can remove this line if you want. -->
+            <script src="../scripts/giscus.js"
+                data-repo="judemont/futureofthe.tech"
+                data-repo-id="R_kgDOJg4fWQ"
+                data-category="Announcements"
+                data-category-id="DIC_kwDOJg4fWc4Cpus9"
+                data-mapping="title"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="dark"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+            </script>
         </footer>
 
     </body>
