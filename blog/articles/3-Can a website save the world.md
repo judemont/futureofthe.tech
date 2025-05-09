@@ -40,7 +40,8 @@ Our big world is beautiful. From human constructions to natural landscapes, our 
 
 It is not only visually beautiful but also in every other sense of the term. Human civilization is something magnificent, which we have spent thousands of years building. Certainly, the world is filled with war, misery, and many other horrible situations. But not only that. There are also beautiful projects, successes, and goodwill in the world. This is what makes the world beautiful, what it has to offer us, and what humanity bring to it.
 
----
+
+## ---
 
 Perhaps I was too ambitious in choosing to create a site on the future of the world. Because the reality is that I can't predict the future. I can't because the world is a big place and I can't predict the behavior of 8 billion people.
 
