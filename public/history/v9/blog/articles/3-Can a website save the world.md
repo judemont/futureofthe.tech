@@ -17,6 +17,8 @@ What can you even put on a website that’s supposed to predict the future of th
 
 ![Image](medias/23.png)  
 
+## Our World
+
 To imagine the future of the world, you first have to understand what the world is like today. And that’s not so easy.
 
 ### The world is big.
@@ -41,7 +43,7 @@ Our big world is beautiful. From human constructions to natural landscapes, our 
 It is not only visually beautiful but also in every other sense of the term. Human civilization is something magnificent, which we have spent thousands of years building. Certainly, the world is filled with war, misery, and many other horrible situations. But not only that. There are also beautiful projects, successes, and goodwill in the world. This is what makes the world beautiful, what it has to offer us, and what humanity bring to it.
 
 
-## ---
+## FutureOfThe.World
 
 Perhaps I was too ambitious in choosing to create a site on the future of the world. Because the reality is that I can't predict the future. I can't because the world is a big place and I can't predict the behavior of 8 billion people.
 
@@ -68,7 +70,7 @@ Firstly, because if everyone looks at people worse than us, no one will change. 
 
 
 
-### Can my Website Save the WORLD ?
+## Can my Website Save the WORLD ?
 
 The answer is no. My site isn't going to save the world. Because it's not my site that over-consumes, pollutes and emits greenhouse gases. *It's us*. __My site can't save the world, but it can tell you that it's still possible.__
 
