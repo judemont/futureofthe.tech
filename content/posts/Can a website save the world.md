@@ -7,8 +7,6 @@ ShowToc: true
 TocOpen: true
 ---
 
-# Can a Website Save the WORLD ?
-
 It all started in front of a drinks vending machine. I was with my friend [DouxxPi](https://douxx.tech), and he was thirsty but had no money. Any nice person would probably have bought their friend a drink. But I didn’t,,. 
 
 I told him that, in exchange, I’d like him to buy me a domain name. And that’s how I got the [FutureOfThe.World](https://futureofthe.world) domain.

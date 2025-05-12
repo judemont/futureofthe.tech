@@ -14,8 +14,7 @@
       
       <guid>https://futureofthe.tech/posts/can-a-website-save-the-world/</guid>
       <description>Explore the inception and purpose of FutureOfThe.World, a website born from a simple trade and aimed at understanding and shaping the future of our planet. Discover how individual actions can collectively make a significant impact on global challenges, emphasizing that while we can&amp;#39;t predict the future, we have the power to create it.</description>
-      <content:encoded><![CDATA[<h1 id="can-a-website-save-the-world-">Can a Website Save the WORLD ?</h1>
-<p>It all started in front of a drinks vending machine. I was with my friend <a href="https://douxx.tech">DouxxPi</a>, and he was thirsty but had no money. Any nice person would probably have bought their friend a drink. But I didn’t,,.</p>
+      <content:encoded><![CDATA[<p>It all started in front of a drinks vending machine. I was with my friend <a href="https://douxx.tech">DouxxPi</a>, and he was thirsty but had no money. Any nice person would probably have bought their friend a drink. But I didn’t,,.</p>
 <p>I told him that, in exchange, I’d like him to buy me a domain name. And that’s how I got the <a href="https://futureofthe.world">FutureOfThe.World</a> domain.</p>
 <p>I already had the domain futureofthe.tech, which I use as my presentation site for my projects and blogs. It&rsquo;s to adopt a more global vision that I chose the domain <a href="https://futureofthe.world">FutureOfThe.World</a>.</p>
 <p>I had the domain, but I didn’t really know what to do with it.
@@ -61,8 +60,7 @@ Firstly, because if everyone looks at people worse than us, no one will change. 
       
       <guid>https://futureofthe.tech/posts/the-website-we-created-to-give-a-voice-to-the-students-at-my-school/</guid>
       <description>This article tells the true story of a website created by students to anonymously rate their teachers. What began as a bold project to give students a voice quickly went viral, sparking excitement, controversy, and backlash from school authorities — revealing deeper issues in the education system.</description>
-      <content:encoded><![CDATA[<h1 id="the-website-we-created-to-give-a-voice-to-the-students-at-my-school">The website we created to give a voice to the students at my school</h1>
-<blockquote>
+      <content:encoded><![CDATA[<blockquote>
 <p>This article primarily presents factual and indisputable information, with only a few sections offering my personal perspective, which will be clearly marked.</p></blockquote>
 <h2 id="introduction">Introduction</h2>
 <p>This article tells the story of a group of students who, a few years ago, launched a website that turned my school upside down in just a few days. It’s the story of how my friends and I used our coding skills to make our vision a reality — how the entire school caught wind of it, and how the education authority responded. It&rsquo;s a story of surprises, mistakes, pressure and lies, but above all it&rsquo;s the initiative of a student who hadn&rsquo;t planned any of it.</p>
@@ -212,8 +210,7 @@ once again by the ****** management, who do not wish to take sanctions immediate
       
       <guid>https://futureofthe.tech/posts/how-web-design-changed-for-me-and-for-the-world/</guid>
       <description>A personal journey through web design evolution, from experimental interfaces to simple elegance, exploring how websites have shifted from information sharing to attention-grabbing in the modern digital landscape.</description>
-      <content:encoded><![CDATA[<h1 id="how-web-design-changed-for-me-and-for-the-world">How Web Design Changed for Me, and for the World</h1>
-<h2 id="introduction">Introduction</h2>
+      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>I started web development at a very young age, and creating a personal website has always been a rewarding activity. Before arriving at this version, I regularly created multiple iterations of my site, each with a different interface. At first, I was afraid of CSS, so I started by building simple sites with just text and images. Today, I&rsquo;ve returned to that simplicity—but for different reasons. I&rsquo;ve archived some of my site versions since 2023, which I&rsquo;d like to show you.</p>
 <h2 id="my-site-that-you-should-talk-to">My site that you should talk to</h2>
 <p><img loading="lazy" src="/images/1.png" type="" alt="Image"  /><br>
@@ -273,8 +270,10 @@ But now the page weighs 57 KB. And&hellip; sure, it’s prettier. But the inform
 <p>Before I was born, the purpose of a website was to share information.<br>
 <strong>But what about now?</strong></p>
 <h2 id="why-my-website-isnt-beautiful-and-why-i-dont-care">Why my website isn&rsquo;t beautiful, and why I don&rsquo;t care</h2>
-<p>This site isn’t pretty or impressive. There’s no elaborate design or animations. It’s just white text on a black background. By modern standards, this isn’t attractive.<br>
-But when I created it, I thought about its purpose—its reason to exist online. And here’s my conclusion: I created this site to share ideas, information, and my view of the world. Not to impress people with design.</p>
+<blockquote>
+<p>This section is outdated. My site is now powered by <a href="https://gohugo.io">Hugo</a>.
+This site isn’t pretty or impressive. There’s no elaborate design or animations. It’s just white text on a black background. By modern standards, this isn’t attractive.<br>
+But when I created it, I thought about its purpose—its reason to exist online. And here’s my conclusion: I created this site to share ideas, information, and my view of the world. Not to impress people with design.</p></blockquote>
 <p><strong>Keeping the design simple is the best way to focus on what matters: the content and purpose.</strong></p>
 <h2 id="design--credibility">Design ≠ Credibility</h2>
 <p>Very often, the flashiest sites have little substance and no clear purpose. Some of the most beautiful sites I’ve seen are from blockchain or AI projects. But that doesn’t mean they’re credible—often, they’re not.</p>

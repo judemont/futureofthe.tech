@@ -8,7 +8,6 @@ TocOpen: true
 ---
 
 
-# The website we created to give a voice to the students at my school
 
 
 > This article primarily presents factual and indisputable information, with only a few sections offering my personal perspective, which will be clearly marked.

@@ -7,7 +7,6 @@ ShowToc: true
 TocOpen: true
 ---
 
-# How Web Design Changed for Me, and for the World
 
 ## Introduction
 I started web development at a very young age, and creating a personal website has always been a rewarding activity. Before arriving at this version, I regularly created multiple iterations of my site, each with a different interface. At first, I was afraid of CSS, so I started by building simple sites with just text and images. Today, I've returned to that simplicity—but for different reasons. I've archived some of my site versions since 2023, which I'd like to show you.
