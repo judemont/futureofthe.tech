@@ -116,6 +116,7 @@ Before I was born, the purpose of a website was to share information.
 
 ## Why my website isn't beautiful, and why I don't care
 > This section is outdated. My site is now powered by [Hugo](https://gohugo.io).
+
 This site isn’t pretty or impressive. There’s no elaborate design or animations. It’s just white text on a black background. By modern standards, this isn’t attractive.  
 But when I created it, I thought about its purpose—its reason to exist online. And here’s my conclusion: I created this site to share ideas, information, and my view of the world. Not to impress people with design.  
 
