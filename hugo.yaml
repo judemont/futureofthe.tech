@@ -1,6 +1,6 @@
 title: JdM's Site
 baseURL: "https://futureofthe.tech/"
-theme: ["PaperModX", "matomo"]
+theme: PaperModX
 
 enableRobotsTXT: true
 enableEmoji: true
@@ -18,10 +18,6 @@ params:
     - posts
     - projects
 
-  # theme params
-  matomo:
-    url: "https://futureofthe.tech/stats/"
-    id: 1
 
   DisableLanguageSwitch: true
   TocOpen: true
