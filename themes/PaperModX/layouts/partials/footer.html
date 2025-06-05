@@ -1,5 +1,6 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
+  {{ partial "matomo-tracking" . }}
   {{- if site.Copyright }}
   <span>{{ site.Copyright | markdownify }}</span>
   {{- else }}
@@ -27,7 +28,7 @@
 {{- partial "extend_footer.html" . }}
 
 <script>
-  (function() {
+  (function () {
     /* theme toggle */
     const disableThemeToggle = '{{ if site.Params.disableThemeToggle }}1{{ end }}' == '1';
     if (disableThemeToggle) {
@@ -116,12 +117,11 @@
 {{/* Load mediumZoom script */}}
 {{/* It has to be loaded here because of the data-no-instant attribute */}}
 {{- $imagezoom := resources.Get "js/medium-zoom.min.js" }}
-<script src="{{ $imagezoom.RelPermalink }}" data-no-instant
-  {{- if site.Params.assets.disableFingerprinting }}integrity="{{ $imagezoom.Data.Integrity }}"{{- end }}
-></script>
+<script src="{{ $imagezoom.RelPermalink }}" data-no-instant {{- if site.Params.assets.disableFingerprinting
+  }}integrity="{{ $imagezoom.Data.Integrity }}" {{- end }}></script>
 
 {{- if .IsPage }}
-  {{- partial "page_footer.html" . }}
+{{- partial "page_footer.html" . }}
 {{- end}}
 
 {{- /* Search */}}
@@ -131,7 +131,8 @@
 {{- $fusejs := resources.Get "js/fuse.basic.min.js" }}
 {{- if not site.Params.assets.disableFingerprinting }}
 {{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify | fingerprint }}
-<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}" integrity="{{ $search.Data.Integrity }}"></script>
+<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"
+  integrity="{{ $search.Data.Integrity }}"></script>
 {{- else }}
 {{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify }}
 <script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"></script>
@@ -143,11 +144,10 @@
 {{- if (.Param "EnableInstantClick") }}
 {{- $instantclick := resources.Get "js/instantclick.js" }}
 {{- if hugo.IsProduction }}
-  {{- $instantclick = minify $instantclick }}
+{{- $instantclick = minify $instantclick }}
 {{- end }}
-<script src="{{ $instantclick.RelPermalink }}" data-no-instant
-  {{- if site.Params.assets.disableFingerprinting }}integrity="{{ $instantclick.Data.Integrity }}"{{- end }}
-></script>
+<script src="{{ $instantclick.RelPermalink }}" data-no-instant {{- if site.Params.assets.disableFingerprinting
+  }}integrity="{{ $instantclick.Data.Integrity }}" {{- end }}></script>
 <script data-no-instant>
   // http://instantclick.io/scripts
   // InstantClick.on('change', function(isInitialLoad) {
