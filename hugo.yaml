@@ -1,6 +1,6 @@
 title: JdM's Site
 baseURL: "https://futureofthe.tech/"
-theme: PaperModX
+theme: ["PaperModX", "matomo"]
 
 enableRobotsTXT: true
 enableEmoji: true
