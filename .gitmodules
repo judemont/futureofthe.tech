@@ -1,0 +1,3 @@
+[submodule "themes/matomo"]
+	path = themes/matomo
+	url = https://github.com/holehan/hugo-components-matomo.git
