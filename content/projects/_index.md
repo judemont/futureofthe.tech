@@ -1,6 +1,6 @@
-## My Projects
+# My Projects
 
-### Android apps :
+## Android apps :
 
 - [QuizFlow](https://github.com/judemont/QuizFlow)  
   Create, and study word lists with interactive flashcards and modes - Free & open source Quizlet alternative
@@ -11,7 +11,7 @@
 - [CryptoTracker](https://github.com/judemont/cryptotracker)  
   Track cryptocurrency prices in real-time with CryptoTracker
 
-### Softwares :
+## Softwares :
 
 - [CryptoFlow](https://github.com/judemont/CryptoFlow)  
   Track crypto-currency prices in style and privacy with CryptoFlow
@@ -19,7 +19,7 @@
 - [Tcoin](https://github.com/judemont/tcoin)  
   Get real-time data and charts for any crypto-currency without leaving your terminal!
 
-### Sites :
+## Sites :
 
 - [FutureOfThe.World](https://futureofthe.world)  
   Can a website save the world ? No. But you can.
@@ -30,7 +30,7 @@
 - [FutureOfThe.Tech/Blog](https://futureofthe.tech/blog)  
   My blog
 
-### Tools :
+## Tools :
 
 - [NetExplorer](https://github.com/judemont/netexplorer)  
   Web analysis tool
@@ -38,12 +38,12 @@
 - [Video to CSS](https://github.com/judemont/Video-to-CSS)  
   Convert your videos into CSS animation
 
-### Telegram bots :
+## Telegram bots :
 
 - [Down Alert](https://t.me/down_alertbot)  
   Telegram bot that checks if your websites are down and then alerts you
 
-### Browser extensions :
+## Browser extensions :
 
 - [Typing Bot](https://github.com/judemont/typing-bot)  
   Automatic typing browser extension for cheating on typing tests
