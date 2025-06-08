@@ -108,12 +108,15 @@ menu:
     - name: Posts
       url: /posts/
       weight: 3
+    - name: Bookmarks
+      url: /bookmarks/
+      weight: 4
     - name: About me
       url: /about/
-      weight: 4
+      weight: 5
     - name: Donate
       url: /donate/
-      weight: 5
+      weight: 6
 
 
 languages:
