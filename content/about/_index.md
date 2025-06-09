@@ -9,7 +9,7 @@ disableReply: true
 
 I create digital solutions optimized for computers, comfortable for users and innovative for the world.
 
-## Personal Information
+## Random infos
 
 | Category | Details |
 |----------|---------|
