@@ -1,4 +1,11 @@
-# My Bookmarks
+---
+title: "My Bookmarks"
+hideMeta: false
+ShowToc: true
+TocOpen: true
+layout: "single"
+disableReply: true
+---
 
 Here is a list of content that I find interesting and that I recommend to you.
 

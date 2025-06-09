@@ -21,17 +21,14 @@ params:
 
   DisableLanguageSwitch: true
   TocOpen: true
-  TocSide: right
   EnableInstantClick: false
   EnableImageZoom: true
-  ShowShareButtons: true
-  ShareButtons:
-    - twitter
-    - telegram
+  ShowShareButtons: false
   ShowReadingTime: true
   ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
+  keywords: [Blog, Julien de Montmollin, judemont, Jdm]
   Email: julien@rmbi.ch
 
   socialIcons:
@@ -118,6 +115,10 @@ menu:
       url: /donate/
       weight: 6
 
+editPost:
+  URL: "https://github.com/judemont/futureofthe.tech/tree/main/content/posts"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: false 
 
 languages:
   en:

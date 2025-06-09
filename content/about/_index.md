@@ -1,4 +1,11 @@
-# About me
+---
+title: "About Me"
+hideMeta: false
+ShowToc: true
+TocOpen: true
+layout: "single"
+disableReply: true
+---
 
 I create digital solutions optimized for computers, comfortable for users and innovative for the world.
 
