@@ -1,68 +1,55 @@
-title: JdM's Site
 baseURL: "https://futureofthe.tech/"
+title: JdM's Site
 theme: PaperModX
 
 enableRobotsTXT: true
 enableEmoji: true
 
 params:
+  defaultTheme: dark
   description: "I create digital solutions optimized for computers, comfortable for users and innovative for the world."
   author: JdM
-  images:
-    - cover.png
-  favicon: favicon.ico
-  #logo:
-  #  icon: images/logo.svg
+  images: ["cover.png"]
+  favicon: "favicon.ico"
   DateFormat: "2006-01-02"
-  mainSections:
-    - posts
-    - projects
+  mainSections: ["posts", "projects"]
 
-
+  ThemeMode: "dark"
   DisableLanguageSwitch: true
   TocOpen: true
-  EnableInstantClick: false
+  EnableInstantClick: true
   EnableImageZoom: true
   ShowShareButtons: false
   ShowReadingTime: true
   ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
-  keywords: [Blog, Julien de Montmollin, judemont, Jdm]
-  Email: julien@rmbi.ch
+  keywords: ["Blog", "Julien de Montmollin", "judemont", "JdM"]
+  Email: "julien@rmbi.ch"
 
   socialIcons:
-    - name: github-simple
+    - name: "github-simple"
       url: "https://github.com/judemont"
-
-    - name: linkedin-simple
+    - name: "linkedin-simple"
       url: "https://www.linkedin.com/in/julien-de-montmollin/"
-
-    - name: signal
+    - name: "signal"
       url: "https://signal.me/#eu/F5CqLbRjbB-Sl8nL-6HtD3Sg7zbbUq4TcQWOp56-ygzyYVoVm0NIxpZAgwTAka4u"
-
-    - name: telegram-simple
+    - name: "telegram-simple"
       url: "https://t.me/judemont"
-
-
-    - name: matrix
+    - name: "matrix"
       url: "https://matrix.to/#/@judemont:matrix.org"
-
-    - name: email
-      url: email
-
-    - name: rss-simple
+    - name: "email"
+      url: "mailto:julien@rmbi.ch"
+    - name: "rss-simple"
       url: "feed.xml"
-
-
 
   homeInfoParams:
     Title: "Welcome to JdM's Site"
     Content: |
       I create digital solutions optimized for computers, comfortable for users and innovative for the world.
 
-      Hi i'm JdM. I'm passionate about development.
-      As a computer science student I use my skills in this field to innovate and create while contributing to a more free, open and secure internet.
+      Hi, I'm JdM. I'm passionate about development.
+      As a computer science student, I use my skills in this field to innovate and create while contributing to a more free, open, and secure internet.
 
       Far beyond the digital realm, I want to bring my motivation to the real world by sharing my ideas and my determination to improve the world.
 
@@ -72,23 +59,9 @@ params:
 
       I believe that many people are aware of these issues. My goal is to imagine solutions.
 
-  # commentSystems:
-  #  disqus:
-  #    shortname: reorx
-  #  remark42:
-  #    url: https://remark42.reorx.com
-  #    site: futureofthe.tech
-  #  telegramWidget:
-  #    channel: reorx_  
-  #    accentColor: "9077e1"
-  #    limit: 20
-  # defaultCommentSystems:
-  #  remark42: true
-
 permalinks:
-  notes: /:section/:year/:month/:slugorfilename
+  notes: "/:section/:year/:month/:slugorfilename"
 
-# prefer feed.xml rather than index.xml
 outputFormats:
   RSS:
     mediatype: "application/rss"
@@ -96,29 +69,29 @@ outputFormats:
 
 menu:
   main:
-    - name: Home
-      url: /
+    - name: "Home"
+      url: "/"
       weight: 1
-    - name: Projects
-      url: /projects/
+    - name: "Projects"
+      url: "/projects/"
       weight: 2
-    - name: Posts
-      url: /posts/
+    - name: "Posts"
+      url: "/posts/"
       weight: 3
-    - name: Bookmarks
-      url: /bookmarks/
+    - name: "Bookmarks"
+      url: "/bookmarks/"
       weight: 4
-    - name: About me
-      url: /about/
+    - name: "About Me"
+      url: "/about/"
       weight: 5
-    - name: Donate
-      url: /donate/
+    - name: "Donate"
+      url: "/donate/"
       weight: 6
 
 editPost:
   URL: "https://github.com/judemont/futureofthe.tech/tree/main/content/posts"
-  Text: "Suggest Changes" # edit text
-  appendFilePath: false 
+  Text: "Suggest Changes"
+  appendFilePath: false
 
 languages:
   en:
@@ -129,6 +102,6 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    style: dracula
+    style: "dracula"
     lineNos: false
     noClasses: false

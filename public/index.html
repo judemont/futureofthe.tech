@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>JdM&#39;s Site</title>
-<meta name="keywords" content="Blog, Julien de Montmollin, judemont, Jdm">
+<meta name="keywords" content="Blog, Julien de Montmollin, judemont, JdM">
 <meta name="description" content="I create digital solutions optimized for computers, comfortable for users and innovative for the world.">
 <meta name="author" content="JdM">
 <link rel="canonical" href="https://futureofthe.tech/">
@@ -35,7 +35,7 @@
   "description": "I create digital solutions optimized for computers, comfortable for users and innovative for the world.",
   "thumbnailUrl": "https://futureofthe.tech/favicon.ico",
   "sameAs": [
-      "https://github.com/judemont", "https://www.linkedin.com/in/julien-de-montmollin/", "https://signal.me/#eu/F5CqLbRjbB-Sl8nL-6HtD3Sg7zbbUq4TcQWOp56-ygzyYVoVm0NIxpZAgwTAka4u", "https://t.me/judemont", "https://matrix.to/#/@judemont:matrix.org", "email", "feed.xml"
+      "https://github.com/judemont", "https://www.linkedin.com/in/julien-de-montmollin/", "https://signal.me/#eu/F5CqLbRjbB-Sl8nL-6HtD3Sg7zbbUq4TcQWOp56-ygzyYVoVm0NIxpZAgwTAka4u", "https://t.me/judemont", "https://matrix.to/#/@judemont:matrix.org", "mailto:julien@rmbi.ch", "feed.xml"
   ]
 }
 </script>
@@ -47,38 +47,11 @@
         }
 
     </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary-bg: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list-page {
-                background: var(--theme);
-            }
-
-            .list-page:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list-page:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
-
-    </style>
 </noscript>
 
 </head>
 
-<body class="list-page type-page kind-home layout-" id="top"><script data-no-instant>
+<body class="list-page dark type-page kind-home layout-" id="top"><script data-no-instant>
 function switchTheme(theme) {
   switch (theme) {
     case 'light':
@@ -139,7 +112,7 @@ function toggleThemeListener() {
 <script>
   
   (function() {
-    const defaultTheme = 'light';
+    const defaultTheme = 'dark';
     const prefTheme = getPrefTheme();
     const theme = prefTheme ? prefTheme : defaultTheme;
 
@@ -196,8 +169,8 @@ function toggleThemeListener() {
                 </a>
             </li>
             <li>
-                <a href="https://futureofthe.tech/about/" title="About me"
-                >About me
+                <a href="https://futureofthe.tech/about/" title="About Me"
+                >About Me
                 </a>
             </li>
             <li>
@@ -220,8 +193,8 @@ function toggleThemeListener() {
     <h1>Welcome to JdM&rsquo;s Site</h1>
   </header>
   <section class="entry-content"><p>I create digital solutions optimized for computers, comfortable for users and innovative for the world.</p>
-<p>Hi i&rsquo;m JdM. I&rsquo;m passionate about development.
-As a computer science student I use my skills in this field to innovate and create while contributing to a more free, open and secure internet.</p>
+<p>Hi, I&rsquo;m JdM. I&rsquo;m passionate about development.
+As a computer science student, I use my skills in this field to innovate and create while contributing to a more free, open, and secure internet.</p>
 <p>Far beyond the digital realm, I want to bring my motivation to the real world by sharing my ideas and my determination to improve the world.</p>
 <p>I would like to build a world of innovation. A more free world. A world where online privacy is not violated. A more prosperous world. A more sustainable world. But also a world of peace.</p>
 <p>A world that would benefit all of humanity.</p>
@@ -254,7 +227,7 @@ As a computer science student I use my skills in this field to innovate and crea
 </svg>
 
     </a>
-    <a href="mailto:julien@rmbi.ch" title="Email">
+    <a href="mailto:julien@rmbi.ch" target="_blank" rel="noopener noreferrer me" title="Email">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
     stroke-linecap="round" stroke-linejoin="round">
     <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
@@ -377,7 +350,7 @@ As a computer science student I use my skills in this field to innovate and crea
     }
 
     const disableSmoothScroll = '' == '1';
-    const enableInstantClick = '' == '1';
+    const enableInstantClick = '1' == '1';
     
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || disableSmoothScroll || enableInstantClick) {
       return;
@@ -424,6 +397,16 @@ As a computer science student I use my skills in this field to innovate and crea
 
 
 <script src="/js/medium-zoom.min.js" data-no-instant></script>
+<script src="/js/instantclick.min.js" data-no-instant></script>
+<script data-no-instant>
+  
+  
+  
+  
+  
+  
+  InstantClick.init();
+</script>
 </body>
 
 </html>

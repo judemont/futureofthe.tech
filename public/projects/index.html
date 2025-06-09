@@ -165,38 +165,11 @@ Browser Extensions
         }
 
     </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary-bg: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list-page {
-                background: var(--theme);
-            }
-
-            .list-page:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list-page:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
-
-    </style>
 </noscript>
 
 </head>
 
-<body class="list-page type-projects kind-section layout-single" id="top"><script data-no-instant>
+<body class="list-page dark type-projects kind-section layout-single" id="top"><script data-no-instant>
 function switchTheme(theme) {
   switch (theme) {
     case 'light':
@@ -257,7 +230,7 @@ function toggleThemeListener() {
 <script>
   
   (function() {
-    const defaultTheme = 'light';
+    const defaultTheme = 'dark';
     const prefTheme = getPrefTheme();
     const theme = prefTheme ? prefTheme : defaultTheme;
 
@@ -314,8 +287,8 @@ function toggleThemeListener() {
                 </a>
             </li>
             <li>
-                <a href="https://futureofthe.tech/about/" title="About me"
-                >About me
+                <a href="https://futureofthe.tech/about/" title="About Me"
+                >About Me
                 </a>
             </li>
             <li>
@@ -537,7 +510,7 @@ function toggleThemeListener() {
     }
 
     const disableSmoothScroll = '' == '1';
-    const enableInstantClick = '' == '1';
+    const enableInstantClick = '1' == '1';
     
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches || disableSmoothScroll || enableInstantClick) {
       return;
@@ -584,6 +557,16 @@ function toggleThemeListener() {
 
 
 <script src="/js/medium-zoom.min.js" data-no-instant></script>
+<script src="/js/instantclick.min.js" data-no-instant></script>
+<script data-no-instant>
+  
+  
+  
+  
+  
+  
+  InstantClick.init();
+</script>
 </body>
 
 </html>
