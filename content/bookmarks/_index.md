@@ -37,6 +37,7 @@ Here is a list of content that I find interesting and that I recommend to you.
 
 | Title | Description |
 |-------|-------------|
+| [To build a better ballot](https://ncase.me/ballot/) | an interactive guide to alternative voting systems |
 | [The shit they expect you to believe](https://sudoedit.com/the-shit-they-expect-you-to-believe/) | And yet. They persecute the poor, the impoverished, and those seeking shelter from violence, hunger, and corruption. |
 
 ---
