@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JdM's WebSite</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+
+</head>
+
+<body>
+    <header>
+        <h1 id="helloWorld" class="mainTitle">Hello World</h1>
+        <ul class="nav">
+            <li onmouseenter="displaySection('aboutSection')"><span>></span>About</li>
+            <li onmouseenter="displaySection('projectsSection')"><span>></span>Projects</li>
+            <li onmouseenter="displaySection('skillsSection')"><span>></span>Skills</li>
+            <li onmouseenter="displaySection('contactSection')"><span>></span>Links & Contact</li>
+        </ul>
+
+    </header>
+
+    <div style="display: none;">
+        <div id="aboutSection">
+            <h1>WhoAmI</h1>
+            <p>👋 Hi ! I'm JdM, also known as Judemont.</p>
+            <p>I like to create programming projects of varying degrees of usefulness to improve myself.</p>
+            <p>I'm trying on a small scale, through my usage and my creations, to create a more free, open and fun
+                internet.</p>
+
+            <h1>Why I code</h1>
+            <p>Because I like that...</p>
+            <i>“Most of the good programmers do programming not because they expect to get paid or get adulation by the
+                public, but because it is fun to program.” - Linus Torvalds</i>
+
+            <h1>What language do I speak</h1>
+            <p>I'm from switzerland 🇨🇭, I speak French and some English.</p>
+
+            <img class="aboutImg" src="images/profile.png" alt="My profile picture">
+            <img class="aboutImg" src="images/setup.jpg" alt="My setup">
+
+        </div>
+
+        <div id="projectsSection">
+            <h1>My Projects</h1>
+            <p>All is on my GitHub: <a href="http://github.com/judemont" target="_blank"
+                    rel="noopener noreferrer">GitHub.com/judemont</a></p>
+        </div>
+
+        <div id="skillsSection">
+            <h1>Languages that I know</h1>
+            <p><b>--></b> Python</p>
+            <p><b>--></b> JavaScript</p>
+            <p><b>--></b> PHP</p>
+            <p><b>--></b> HTML</p>
+            <p><b>--></b> CSS</p>
+
+            <h1>I Want to Learn</h1>
+            <p><b>--></b> Rust</p>
+            <p><b>--></b> Making beautiful sites</p>
+            <p><b>--></b> Arduino</p>
+            <p><b>--></b> Android Development</p>
+            <p><b>--></b> Game Development</p>
+            <p><b>--></b> How to center a div in CSS...</p>
+
+        </div>
+
+        <div id="contactSection">
+            <h1>Contact me</h1>
+            <p><b>--></b> Telegram💬 : <a href="http://t.me/judemont" target="_blank"
+                    rel="noopener noreferrer"><b>t.me/judemont</b></a></p>
+            <p><b>--></b> Discord🤖 : <a href="https://discord.com/users/8453" target="_blank"
+                    rel="noopener noreferrer"><b>judemont#8453</b></a></p>
+            <p><b>--></b> eMail📮👴 : <a href="mailto:julien@rmbi.ch?subject=Hello%20JdM%21" target="_blank"
+                    rel="noopener noreferrer"><b>julien@rmbi.ch</b></a></p>
+            <h1>Find me on...</h1>
+
+
+        </div>
+
+    </div>
+
+    <div id="mainContent" class="main-content">
+    </div>
+
+
+</body>
+
+</html>

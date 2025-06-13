@@ -1,0 +1,39 @@
+[[project]]
+name = "FutureOfThe.World"
+desc = "Act now and spread the word to make a difference. The best way to predict the future is to create it."
+tags = ["Website", "Informative"]
+links = [
+    { name = "url", url = "https://futureofthe.world" },
+]
+
+[[project]]
+name = "The evolution of trust"
+desc = "An interactive guide to the game theory of why & how we trust each other."
+tags = ["Website", "Informative"]
+links = [
+    { name = "url", url = "https://ncase.me/trust/" },
+]
+
+[[project]]
+name = "No Skid"
+desc = "Please don't talk when you don't know :]"
+tags = ["Website", "Informative"]
+links = [
+    { name = "url", url = "https://noskid.today" },
+]
+
+[[project]]
+name = "Je n'ai rien à cacher. (in French)"
+desc = "Puis-je vous demander une copie de tous vos emails, de vos messages et photos sur Facebook, et de tous les fichiers sur votre ordinateur ? J’aimerais tout savoir sur votre vie privée."
+tags = ["Website", "Informative"]
+links = [
+    { name = "url", url = "https://jenairienacacher.fr/" },
+]
+
+[[project]]
+name = "The 512KB Club"
+desc = "The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes."
+tags = ["Website", "Informative"]
+links = [
+    { name = "url", url = "https://512kb.club/" },
+]

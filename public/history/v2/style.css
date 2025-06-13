@@ -1,0 +1,120 @@
+*{
+    --textColor: rgb(255, 255, 255);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 1000px;
+    overflow-y: scroll;
+    color: var(--textColor);
+}
+
+.background{
+    content: "";
+    position: absolute;
+    width: 250%;
+    height: 250%;
+    top: -75%;
+    left: -75%;
+    z-index: -1;
+    background-image: url('./images/fractal.jpg');
+    background-size: 105%;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: fixed;
+    transform: rotate(-30deg);
+}
+
+#dpi {
+    height: 1in;
+    left: -100%;
+    position: absolute;
+    top: -100%;
+    width: 1in;
+}
+
+.deepDiv{
+}
+.deep{
+    position: fixed;
+    top: 90%;
+}
+.social {
+    position: fixed;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.social_logo{
+    padding: 10px;
+    margin: 10px;
+    width: 7vh;
+    cursor:pointer;
+    transition: transform .5s;
+    border-radius: 30px;
+    
+}
+
+.social_logo:hover{
+    transform: scale(1.3);
+}
+
+.titleh1{
+    font-size: 70px;
+    text-align: center;
+    position: -webkit-sticky;
+    margin-top: 5%;
+    animation: colorChange 2s linear infinite alternate-re;
+}
+
+.description{
+    font-size: 50px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 4rem;
+    margin-top: 0%;
+    text-align: center;
+    white-space: initial;
+}
+
+@keyframes colorChange {
+    from {
+        color: rgb(122, 122, 122);
+    }
+    to {
+        color: var(--textColor);
+    }
+}
+
+
+
+.profile_div{
+    text-align: center;
+}
+
+.profile_img{
+    width: 40vh;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 25px;
+    cursor: pointer;
+
+
+    transition: transform 1s;
+}
+
+.profile_img:hover{
+    transform: scale(1.1);
+}
+
+#infinitSpace{
+    position: absolute;
+    margin-top: 10%;
+}

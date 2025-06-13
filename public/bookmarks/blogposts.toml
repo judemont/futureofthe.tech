@@ -1,0 +1,80 @@
+[[project]]
+name = "How Web Design Changed for Me, and for the World"
+desc = "A personal journey through web design evolution, from experimental interfaces to simple elegance, exploring how websites have shifted from information sharing to attention-grabbing in the modern digital landscape."
+tags = ["Tech", "Blog Post"]
+links = [
+    { name = "url", url = "https://futureofthe.tech/posts/how-web-design-changed-for-me-and-for-the-world" },
+]
+
+[[project]]
+name = "A look at search engines with their own indexes"
+desc = "A cursory review of all the non-metasearch, indexing search engines I have been able to find."
+tags = ["Tech", "Blog Post"]
+links = [
+    { name = "url", url = "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes" },
+]
+
+[[project]]
+name = "MinorMiner: we turn your kid's maths homework into Bitcoin"
+desc = "Hello! Welcome, welcome. My name is Hobert Reaton, and I’m here in this shabby motel conference room to present you with yet another once-in-a-lifetime investment opportunity."
+tags = ["Tech", "Blog Post"]
+links = [
+    { name = "url", url = "https://robertheaton.com/minor-miner/" },
+]
+
+[[project]]
+name = "PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights"
+desc = "The plane reached 10,000ft. I took out my laptop, planning to peruse the internet and maybe do a little work if I got really desperate."
+tags = ["Tech", "Blog Post"]
+links = [
+    { name = "url", url = "https://robertheaton.com/pyskywifi/" },
+]
+
+[[project]]
+name = "The website we created to give a voice to the students at my school"
+desc = "This article tells the true story of a website created by students to anonymously rate their teachers. What began as a bold project to give students a voice quickly went viral, sparking excitement, controversy, and backlash from school authorities — revealing deeper issues in the education system."
+tags = ["Society", "Blog Post"]
+links = [
+    { name = "url", url = "https://futureofthe.tech/posts/the-website-we-created-to-give-a-voice-to-the-students-at-my-school" },
+]
+
+[[project]]
+name = "Can a Website Save the WORLD?"
+desc = "Explore the inception and purpose of FutureOfThe.World, a website born from a simple trade and aimed at understanding and shaping the future of our planet. Discover how individual actions can collectively make a significant impact on global challenges, emphasizing that while we can't predict the future, we have the power to create it."
+tags = ["Society", "Blog Post"]
+links = [
+    { name = "url", url = "https://futureofthe.tech/posts/can-a-website-save-the-world" },
+]
+
+[[project]]
+name = "On Separating Creator from Creation"
+desc = "As I see it, there are two basic schools of thought, on at either extreme of a spectrum: Always separate creator from creation. Never separate creator from creation."
+tags = ["Society", "Blog Post"]
+links = [
+    { name = "url", url = "https://www.bfloeser.de/posts/creator-and-creation/" },
+]
+
+[[project]]
+name = "Stop Destruction"
+desc = "The time to act is now. Are you content to stand by and watch as others harm the planet and cause suffering? Or are you ready to take a stand, be strong, and join those working to save the Earth? Make your decision quickly, as time is running out."
+tags = ["Society", "Blog Post"]
+links = [
+    { name = "url", url = "https://stzyxh.codeberg.page/sites/changing.html" },
+]
+
+[[project]]
+name = "To build a better ballot"
+desc = "An interactive guide to alternative voting systems."
+tags = ["Politics", "Blog Post"]
+links = [
+    { name = "url", url = "https://ncase.me/ballot/" },
+]
+
+[[project]]
+name = "The shit they expect you to believe"
+desc = "And yet. They persecute the poor, the impoverished, and those seeking shelter from violence, hunger, and corruption."
+tags = ["Politics", "Blog Post"]
+links = [
+    { name = "url", url = "https://sudoedit.com/the-shit-they-expect-you-to-believe/" },
+]
+

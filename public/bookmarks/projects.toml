@@ -1,0 +1,33 @@
+
+[[project]]
+name = "Nym"
+desc = "Stay truly anonymous online. Nym’s decentralized mixnet prevents surveillance, shields metadata, and delivers private, high-speed browsing."
+tags = ["Website", "Interesting Project"]
+links = [
+    { name = "url", url = "https://nym.com" },
+]
+
+[[project]]
+name = "Stract"
+desc = "Stract is an open-source search engine where the user has the ability to see exactly what is going on and customize almost everything about their search results. It's a search engine made for hackers and tinkerers just like ourselves. No more searches where some of the terms in the query aren't used, and the engine tries to guess what you really meant. You get what you search for."
+tags = ["Website", "Interesting Project"]
+links = [
+    { name = "url", url = "https://stract.com/" },
+]
+
+
+[[project]]
+name = "OpenFoodFacts"
+desc = "A collaborative, free and open database of ingredients, nutrition facts and information on food products from around the world."
+tags = ["Website", "Interesting Project"]
+links = [
+    { name = "url", url = "https://openfoodfacts.org" },
+]
+
+[[project]]
+name = "Common Crawl"
+desc = "Common Crawl maintains a free, open repository of web crawl data that can be used by anyone."
+tags = ["Website", "Interesting Project"]
+links = [
+    { name = "url", url = "https://commoncrawl.org/" },
+]
