@@ -96,3 +96,30 @@ social = [
     { name = "email", url = "mailto:julien@rmbi.ch" },
     { name = "rss", url = "$BASE_URL/rss.xml" },
 ]
+
+
+[extra.giscus]
+# No default value.
+repo = "judemont/futureofthe.tech"
+# No default value.
+repo_id = "R_kgDOJg4fWQ"
+# No default value.
+category = "Announcements"
+# No default value.
+category_id = "DIC_kwDOJg4fWc4Cpus9"
+# Default value: "pathname"
+mapping = "pathname"
+# Default value: 1
+strict = 1
+# Default value: 0
+reactions_enabled = 1
+# Default value: 0
+emit_metadata = 0
+# Default value: "top"
+input_position = "top"
+# Default value: "light"
+theme = "dark"
+# Default value: "en"
+lang = "en"
+# Default value: "lazy"
+loading = "lazy"
