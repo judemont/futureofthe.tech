@@ -3,6 +3,10 @@ author = "Julien  de Montmollin"
 title = "The website we created to give a voice to the students at my school"
 date = "2025-04-24"
 description = "This article tells the true story of a website created by students to anonymously rate their teachers. What began as a bold project to give students a voice quickly went viral, sparking excitement, controversy, and backlash from school authorities — revealing deeper issues in the education system."
+[extra]
+[extra.cover]
+image = "../../images/siteprofs.png"
+alt = ""
 +++
 
 

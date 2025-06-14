@@ -2,6 +2,10 @@
 title = "Can a Website Save the WORLD ?"
 date = "2025-05-09"
 description = "Explore the inception and purpose of FutureOfThe.World, a website born from a simple trade and aimed at understanding and shaping the future of our planet. Discover how individual actions can collectively make a significant impact on global challenges, emphasizing that while we can't predict the future, we have the power to create it."
+[extra]
+[extra.cover]
+image = "../../images/futureoftheworld.png"
+alt = ""
 +++
 
 It all started in front of a drinks vending machine. I was with my friend [DouxxPi](https://douxx.tech), and he was thirsty but had no money. Any nice person would probably have bought their friend a drink. But I didn’t,,. 

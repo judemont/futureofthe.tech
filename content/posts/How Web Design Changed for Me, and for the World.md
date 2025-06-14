@@ -3,6 +3,10 @@ author = "Julien  de Montmollin"
 title = "How Web Design Changed for Me, and for the World"
 date = "2025-04-06"
 description = "A personal journey through web design evolution, from experimental interfaces to simple elegance, exploring how websites have shifted from information sharing to attention-grabbing in the modern digital landscape."
+[extra]
+[extra.cover]
+image = "../../images/www.png"
+alt = ""
 +++
 
 
