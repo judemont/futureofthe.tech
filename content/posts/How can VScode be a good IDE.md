@@ -3,6 +3,7 @@ author = "Julien  de Montmollin"
 title = "How can VScode be a good IDE?"
 date = "2025-06-20"
 description = ""
+draft = true
 [extra]
 [extra.cover]
 image = "../../images/msmonkey.png"
