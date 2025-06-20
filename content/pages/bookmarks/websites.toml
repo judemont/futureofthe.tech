@@ -1,7 +1,7 @@
 [[project]]
 name = "FutureOfThe.World"
 desc = "Act now and spread the word to make a difference. The best way to predict the future is to create it."
-tags = ["Website", "Informative"]
+tags = []
 links = [
     { name = "url", url = "https://futureofthe.world" },
 ]
@@ -9,7 +9,7 @@ links = [
 [[project]]
 name = "The evolution of trust"
 desc = "An interactive guide to the game theory of why & how we trust each other."
-tags = ["Website", "Informative"]
+tags = []
 links = [
     { name = "url", url = "https://ncase.me/trust/" },
 ]
@@ -17,7 +17,7 @@ links = [
 [[project]]
 name = "No Skid"
 desc = "Please don't talk when you don't know :]"
-tags = ["Website", "Informative"]
+tags = []
 links = [
     { name = "url", url = "https://noskid.today" },
 ]
@@ -25,7 +25,7 @@ links = [
 [[project]]
 name = "Je n'ai rien à cacher. (in French)"
 desc = "Puis-je vous demander une copie de tous vos emails, de vos messages et photos sur Facebook, et de tous les fichiers sur votre ordinateur ? J’aimerais tout savoir sur votre vie privée."
-tags = ["Website", "Informative"]
+tags = []
 links = [
     { name = "url", url = "https://jenairienacacher.fr/" },
 ]
@@ -33,7 +33,23 @@ links = [
 [[project]]
 name = "The 512KB Club"
 desc = "The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes."
-tags = ["Website", "Informative"]
+tags = []
 links = [
     { name = "url", url = "https://512kb.club/" },
+]
+
+[[project]]
+name = "The Good Shopping Guide"
+desc = "Choose Fact, Not Fiction. The original Ethical Accreditation. The definitive guide to brands, ranked for ethics and sustainability."
+tags = []
+links = [
+    { name = "url", url = "https://thegoodshoppingguide.com" },
+]
+
+[[project]]
+name = "Your digital rights"
+desc = "Delete your account or access the personal data organizations have on you using this free service."
+tags = []
+links = [
+    { name = "url", url = "https://yourdigitalrights.org" },
 ]

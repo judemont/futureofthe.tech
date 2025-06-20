@@ -24,6 +24,14 @@ links = [
 ]
 
 [[project]]
+name = "SweetHome"
+desc = "After an unexpected family tragedy, a reclusive high school student is forced to leave his home -- only to face something much scarier: a reality where monsters are trying to wipe out humanity. Now he must fight alongside a handful of reluctant heroes to try and save the world before it’s too late."
+tags = ["WebToon"]
+links = [
+    { name = "url", url = "https://www.webtoons.com/en/thriller/sweethome/list?title_no=1285" },
+]
+
+[[project]]
 name = "There Are No Demons"
 desc = "A few stories about humans, the most frightening creatures of all."
 tags = ["WebToon"]

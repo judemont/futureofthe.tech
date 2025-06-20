@@ -23,6 +23,14 @@ links = [
 ]
 
 [[project]]
+name = "ad-blocking is not unethical"
+desc = "even the fbi says adblockers are your friends"
+tags = ["Tech", "society", "Blog Post"]
+links = [
+    { name = "url", url = "https://rav3ndust.xyz/blog/2021-08-03.html" },
+]
+
+[[project]]
 name = "PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights"
 desc = "The plane reached 10,000ft. I took out my laptop, planning to peruse the internet and maybe do a little work if I got really desperate."
 tags = ["Tech", "Blog Post"]
@@ -52,6 +60,14 @@ desc = "As I see it, there are two basic schools of thought, on at either extrem
 tags = ["Society", "Blog Post"]
 links = [
     { name = "url", url = "https://www.bfloeser.de/posts/creator-and-creation/" },
+]
+
+[[project]]
+name = "on politics and religion"
+desc = "remember when people could peaceably disagree?"
+tags = ["Society", "Politics", "Blog Post"]
+links = [
+    { name = "url", url = "https://rav3ndust.xyz/blog/2021-08-03.html" },
 ]
 
 [[project]]
