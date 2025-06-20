@@ -9,6 +9,10 @@ image = "../../images/msmonkey.png"
 alt = ""
 +++
 
+{% admonition(type="info", title="info") %}
+Please note that this article is primarily, but not exclusively, intended to be humorous.
+{% end %}
+
 I apologize in advance to all the fans of JetBrains products, Sublime Text, Zed, and even VIM (if you're using Notepad++, I have no excuse to offer you >;). I have tested each of these software tools (I still haven't managed to quit VIM, please help me!), and I believe I can confidently say that, in my opinion, Visual Studio Code is the best code editor. 
 
 It's the best because it's full of useful features, is pleasant to use and has a wide range of extensions. 
