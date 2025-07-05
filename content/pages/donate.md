@@ -10,11 +10,11 @@ Join me on this journey, and together, we can contribute to shaping a better dig
 # Bitcoin :
 ![Image](../../images/bitcoin.png)  
 ```
-bc1qhmkpytvs42w27pgqrk7kljy5hvarzx6tll8ar6
+36JLK52aFRHghE1iBeffrzkZzNwWStFkKd
 ```
 
 # Monero :
 ![Image](../../images/monero.png)  
 ```
-49pyL3WPqfqfaLweCYFYbsWQi2bvKqmAHixewxnDBi32DKiPQz9kgJ5g6VnvENLqWbD5iGasQQvG7GVVg6B3HYu5Gqx4JSn
+46Wbg1ZPu6ZMWTPz8jFxB12WWwqvkNC4aTJk6KAP3nQXZbpphunEKxB5KzcmeonTdALkyYXHBx2SJLBvZYX4hoRAArnqozg
 ```
