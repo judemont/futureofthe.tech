@@ -13,6 +13,12 @@ Join me on this journey, and together, we can contribute to shaping a better dig
 36JLK52aFRHghE1iBeffrzkZzNwWStFkKd
 ```
 
+# Bitcoin Lightning :
+![Image](../../images/bitcoinLN.png)  
+```
+0933-8713-0952-3916@sbpc.ch
+```
+
 # Monero :
 ![Image](../../images/monero.png)  
 ```
