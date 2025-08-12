@@ -379,7 +379,7 @@ Here's the complete email :
 > > [Official Seal/Logo]
 > > [Contact Information] | [Website: www.marisola.gov]
 
-Well... They still haven't responded... I'll keep you informed... In the meantime, we also need to send an email to Unicode asking them to include an emoji the flag of our beloved country.
+Well... They still haven't responded... I'll keep you informed... In the meantime, we also need to send an email to Unicode asking them to create a new emoji : the flag of our beloved country.
 
 
 
