@@ -4,7 +4,7 @@ date = "2025-08-12"
 description = "- 'Unity in Diversity, Strength in the Sea' - WTF is this AI-generated bulshit ??"
 [extra]
 [extra.cover]
-image = "../../images/39.png"
+image = "../../images/island.png"
 alt = ""
 +++
 
@@ -43,7 +43,7 @@ And........
 
 Here is the flag of our new country :
 
-![Image](../../images/30.png)  
+![Image](../../images/30.svg)  
 
 Honestly, I really like it.
 
@@ -66,7 +66,7 @@ It's not that bad...
 
 If we want to move to *Marisola*, we need to determine the position and shape of the country.
 
-![Image](../../images/31.svg)
+![Image](../../images/31.png)
 
 Okay, great, we have a position, now we can...
 
@@ -246,7 +246,7 @@ Okayyy, let's create banknotes. I'll ask for a design. But first, I need to make
 
 ![Image](../../images/45.png)
 
-![Image](../../images/46.png)
+![Image](../../images/46.jpg)
 
 At first glance, these banknotes don't look too bad. When you look closer, there are some errors in the writing, but that's not my problem. If the IA wants these banknotes, we'll accept them.
 
@@ -379,7 +379,7 @@ Here's the complete email :
 > > [Official Seal/Logo]
 > > [Contact Information] | [Website: www.marisola.gov]
 
-Well... They still haven't responded... I'll keep you informed... In the meantime, we also need to send an email to Unicode asking them to add the flag of our beloved country.
+Well... They still haven't responded... I'll keep you informed... In the meantime, we also need to send an email to Unicode asking them to include an emoji the flag of our beloved country.
 
 
 
