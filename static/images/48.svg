@@ -1,0 +1,35 @@
+<svg width="400" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="250" rx="10" ry="10" fill="#1E90FF" />
+
+  <!-- Header -->
+  <rect x="0" y="0" width="400" height="50" rx="10" ry="10" fill="#FFD700" />
+  <text x="200" y="30" font-family="Arial" font-size="20" font-weight="bold" text-anchor="middle" fill="#00008B">REPUBLIC OF MARISOLA</text>
+  <text x="200" y="50" font-family="Arial" font-size="14" text-anchor="middle" fill="#00008B">NATIONAL IDENTIFICATION CARD</text>
+
+  <!-- ID Card Details -->
+  <text x="50" y="90" font-family="Arial" font-size="12" fill="#FFFFFF">Full Name:</text>
+  <text x="150" y="90" font-family="Arial" font-size="12" font-weight="bold" fill="#FFFFFF">JdM</text>
+
+  <text x="50" y="120" font-family="Arial" font-size="12" fill="#FFFFFF">Date of Birth:</text>
+  <text x="150" y="120" font-family="Arial" font-size="12" font-weight="bold" fill="#FFFFFF">12/05/1842</text>
+
+  <text x="50" y="150" font-family="Arial" font-size="12" fill="#FFFFFF">ID Number:</text>
+  <text x="150" y="150" font-family="Arial" font-size="12" font-weight="bold" fill="#FFFFFF">MAR-9876-5432</text>
+
+  <text x="50" y="180" font-family="Arial" font-size="12" fill="#FFFFFF">Address:</text>
+  <text x="150" y="180" font-family="Arial" font-size="12" font-weight="bold" fill="#FFFFFF">futureofthe.tech</text>
+
+  <text x="50" y="210" font-family="Arial" font-size="12" fill="#FFFFFF">Expiry Date:</text>
+  <text x="150" y="210" font-family="Arial" font-size="12" font-weight="bold" fill="#FFFFFF">12/05/2030</text>
+
+  <!-- Marisola Flag -->
+  <rect x="280" y="70" width="100" height="60" fill="#FFFFFF" />
+  <circle cx="330" cy="100" r="15" fill="#FFD700" />
+  <path d="M290,130 Q330,110 370,130" stroke="#FFFFFF" stroke-width="2" fill="none" />
+  <polygon points="330,80 335,95 345,85 335,90 340,105 330,95 320,105 330,95 325,80 330,90" fill="#FFFFFF" />
+
+  <!-- Security Features -->
+  <text x="300" y="230" font-family="Arial" font-size="8" fill="#FFFFFF">●●●●●●●●●●●●●●●●●●●●</text>
+  <text x="300" y="240" font-family="Arial" font-size="8" fill="#FFFFFF">Official Government Document</text>
+</svg>

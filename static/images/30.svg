@@ -1,0 +1,13 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#1E90FF" />
+
+  <!-- Central Emblem: Sun -->
+  <circle cx="300" cy="200" r="80" fill="#FFD700" />
+
+  <!-- Waves -->
+  <path d="M0,300 Q150,250 300,300 T600,300 L600,400 L0,400 Z" fill="#FFFFFF" />
+
+  <!-- Star -->
+  <polygon points="300,120 320,180 380,180 330,220 355,280 300,240 245,280 270,220 220,180 280,180" fill="#FFFFFF" />
+</svg>
