@@ -1,8 +1,7 @@
 +++
 title = "Marisola : An AI-Generated✨ country"
 date = "2025-08-12"
-description = "An AI-Generated✨✨✨✨✨✨✨✨✨✨✨✨ country"
-draft = true
+description = "- 'Unity in Diversity, Strength in the Sea' - WTF is this AI-generated bulshit ??"
 [extra]
 [extra.cover]
 image = "../../images/39.png"
@@ -398,7 +397,7 @@ But above all, a country cannot be summed up by a name, a flag, a territory, a c
 
 
 
-![Image](../../images/51.png)
+![Image](../../images/52.png)
 
 
 As the anarchist saying goes, 
@@ -412,6 +411,8 @@ However, *imagination* is precisely what AI cannot do.
 Our AI did nothing original or innovative. Nothing very interesting, in fact. 
 
 So what was the point of this article? The goal was not to conduct a rigorous study on AI and the creation of countries, nor to show why AI is good or bad (that means nothing to an AI). My goal was simply to conduct an experiment that I found amusing.
+
+**Unity in Diversity, Strength in the Sea**
 
 ---
 
