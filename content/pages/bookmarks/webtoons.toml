@@ -8,14 +8,6 @@ links = [
 ]
 
 [[project]]
-name = "Memorial"
-desc = "In a future where the world has been devastated by a deadly gas called Izpo, Minhui and his friends find themselves embroiled in a thick conspiracy — where the stakes are high, and bets are made with one’s life. Only the Memorial Chips guard humanity against the lethal gas that permeates the atmosphere. But are these electronic securities truly built to guard us — or watch us? Follow Minhui as he examines what reality is, and comes face-to-face with the truth that will change him forever."
-tags = ["WebToon"]
-links = [
-    { name = "url", url = "https://www.webtoons.com/en/thriller/memorial/list?name_no=6137" },
-]
-
-[[project]]
 name = "unOrdinary"
 desc = "Nobody paid much attention to John – just a normal teenager at a high school where the social elite happens to possess unthinkable powers and abilities. But John’s got a secret past that threatens to bring down the school’s whole social order – and much more. Fulfilling his destiny won’t be easy though, because there are battles, frenemies, and deadly conspiracies around every corner."
 tags = ["WebToon"]
@@ -32,9 +24,26 @@ links = [
 ]
 
 [[project]]
+name = "Memorial"
+desc = "In a future where the world has been devastated by a deadly gas called Izpo, Minhui and his friends find themselves embroiled in a thick conspiracy — where the stakes are high, and bets are made with one’s life. Only the Memorial Chips guard humanity against the lethal gas that permeates the atmosphere. But are these electronic securities truly built to guard us — or watch us? Follow Minhui as he examines what reality is, and comes face-to-face with the truth that will change him forever."
+tags = ["WebToon"]
+links = [
+    { name = "url", url = "https://www.webtoons.com/en/thriller/memorial/list?name_no=6137" },
+]
+
+
+[[project]]
 name = "There Are No Demons"
 desc = "A few stories about humans, the most frightening creatures of all."
 tags = ["WebToon"]
 links = [
     { name = "url", url = "https://www.webtoons.com/en/thriller/there-are-no-demons/list?name_no=5725" },
+]
+
+[[project]]
+name = "If AI Ruled the World"
+desc = "Welcome to a world where artificial intelligence can drive your car, look after you when you’re ill, and solve all of your problems. But all of this convenience comes at a price. AI can pose a threat when it no longer has humanity’s best interests at heart. Can humans learn to coexist with AI?"
+tags = ["WebToon"]
+links = [
+    { name = "url", url = "https://www.webtoons.com/en/sf/if-ai-ruled-the-world/list?title_no=2605" },
 ]
