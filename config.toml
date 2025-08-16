@@ -89,6 +89,7 @@ I believe that many people are aware of these issues. My goal is to imagine solu
 # "url" supports "$BASE_URL".
 # Other variables: "urls", "title", "titles".
 social = [
+    { name = "codeberg", url = "https://github.com/codeberg" },
     { name = "github", url = "https://github.com/judemont" },
     { name = "signal", url = "https://signal.me/#eu/F5CqLbRjbB-Sl8nL-6HtD3Sg7zbbUq4TcQWOp56-ygzyYVoVm0NIxpZAgwTAka4u" },
     { name = "telegram", url = "https://t.me/judemont" },
